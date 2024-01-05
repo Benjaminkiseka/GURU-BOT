@@ -7,12 +7,12 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['917605902011', 'GURU', true],
-  ['6281255369012', 'Ash', true], 
+  ['255657779003', 'BENJAMINI OMARY', true],
+  ['255766004575', 'BENJAMINI OMARY', true], 
   [''] 
 ] //Number of owners
 
-//global.pairingNumber = "" //put your bot number here
+//global.pairingNumber = "255677730995" //put your bot number here
 
 global.mods = ['917605902011','32460248586'] 
 global.prems = ['917605902011', '32460248586', '919398758484']
@@ -51,7 +51,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
-global.premium = 'true'
+global.premium = 'false'
 global.packname = 'GURU┃ᴮᴼᵀ' 
 global.author = '@Asliguru' 
 global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
